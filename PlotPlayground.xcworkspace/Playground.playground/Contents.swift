@@ -24,7 +24,7 @@ struct WebPage: Component {
             H2("A form")
             Form(url: "/") {
                 TextField(placeholder: "First name")
-                TextField(placeholder: "Last name name")
+                TextField(placeholder: "Last name")
                 SubmitButton("Send")
             }
 
