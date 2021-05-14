@@ -1,0 +1,19 @@
+/**
+*  PlotPlayground
+*  Copyright (c) John Sundell 2021
+*  MIT license, see LICENSE file for details
+*/
+
+body {
+    font-family: -apple-system, sans-serif;
+    padding: 10px;
+}
+
+.logo {
+    max-height: 80px;
+}
+
+table td {
+    border: 1px solid black;
+    padding: 5px;
+}
